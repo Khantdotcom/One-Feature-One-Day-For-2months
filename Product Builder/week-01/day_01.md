@@ -13,3 +13,4 @@
 
 
 Daily log - Structural typing , Partial<T>
+BOTH DONE
