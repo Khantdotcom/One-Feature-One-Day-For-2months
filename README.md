@@ -1,5 +1,5 @@
-# This README is designed to serve as the "Command Center" for your 90-day intensive journey. It focuses on clarity, progress tracking, and showcasing your massive output to potential recruiters.
-🚀 90-Day Full-Stack & Data Engineering Intensive
+
+🚀 60-Day Full-Stack & Data Engineering Intensive
 This repository serves as the central hub for my 90-day technical deep-dive. The goal is to master Full-Stack Development, Data Engineering, and Cloud-Native Scaling through a rigorous schedule of 6 concepts and 2 mini-projects every single day.
 📊 Progress Overview
  * Total Duration: 60 Days
